@@ -70,7 +70,7 @@
 * Streamlit 기반 웹 인터페이스  
 * 사용자가 강의 텍스트를 업로드 → 결과 출력 확인
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/832d7bc1-c7ec-4023-bd0f-a3b43a2f187a" />
+<img width="512" height="768" alt="AI_question_generation_flow_halfsize" src="https://github.com/user-attachments/assets/8e199e86-757d-43cf-9eae-8eeae381a96c" />
 
 
 
