@@ -70,7 +70,8 @@
 * Streamlit 기반 웹 인터페이스  
 * 사용자가 강의 텍스트를 업로드 → 결과 출력 확인
 
-<img width="512" height="768" alt="image" src="https://github.com/user-attachments/assets/4d512a5e-4467-4f40-9e1e-5f5c81dcdd97" />
+<img width="512" height="768" alt="image" src="https://github.com/user-attachments/assets/d7eca65e-caf2-445a-bb8c-853964ade08a" />
+
 
 
 
