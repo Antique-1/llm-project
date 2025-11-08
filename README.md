@@ -25,7 +25,7 @@
 
 
   
-### 3. 해당 프로젝트 관련 문헌 및 사례 분석
+### 3. 해당 프로젝트 관련 문헌
 * [Du et al. (2017) — Learning to Ask: Neural Question Generation for Reading Comprehension](https://aclanthology.org/P17-1123/?utm_source=chatgpt.com)
   * 이 연구는 자연어 문장에서 자동으로 질문을 생성하는 신경망 기반 모델을 처음으로 제안. Sequence-to-Sequence 구조(Encoder–Decoder)를 이용하여 입력 문장을 이해하고, 그로부터 적절한 질문을 생성하도록 학습하였음.
     이 논문은 이후 T5, BART, GPT 계열 모델이 교육용 문제 자동생성에 활용되는 데 기반이 되었음 
@@ -37,7 +37,7 @@
 
 
     
-### 4. 참고 선행 프로젝트 및 구현 차별점
+### 4. 참고 선행 프로젝트 및 차별점
 #### 4-1 선행 프로젝트 사례 및 분석
 * [Questgen.ai](https://github.com/ramsrigouthamg/Questgen.ai?utm_source=chatgpt.com)
   * 해당 프로젝트는 텍스트 형식의 내용을 받으면 문제를 자동으로 생성해 주며, 객관식 참/거짓 FAQ 등의 여러가지 스타일로 문제를 생성
