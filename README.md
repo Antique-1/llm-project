@@ -53,28 +53,7 @@
 ---
 
 ## 모델 구현 계획 및 방향성
-### 1. 요약 단계
-* OpenAI GPT 모델을 활용하여 강의 스크립트에서 핵심 문장과 개념 추출  
-* LangChain으로 문맥 단위 분리 및 텍스트 전처리 수행  
-
-### 2. 문제 생성 단계
-* GPT API를 통해 요약된 문장을 입력받아 다지선다형 문제 자동 생성  
-* 각 문제에 대해 보기 4개와 정답 1개를 JSON 형태로 반환  
-
-### 3. 난이도 조절 단계 
-* 프롬프트 내 난이도 인자(초급 / 중급 / 고급)를 변수로 전달  
-* 질문의 복잡도 및 개념 수준을 동적으로 조정  
-
-### 4. 해설 생성 단계 
-* 각 문제 정답에 대한 이유 및 오답 선택지의 오류를 GPT가 자동 생성  
-* 결과를 문제 + 보기 + 정답 + 해설 형태로 시각화  
-
-### 5. 출력 및 인터페이스
-* Streamlit 기반 웹 인터페이스  
-* 사용자가 강의 텍스트를 업로드 → 결과 출력 확인
-
-<img width="512" height="768" alt="image" src="https://github.com/user-attachments/assets/d7eca65e-caf2-445a-bb8c-853964ade08a" />
-
+<img width="500" height="1000" alt="강의 자료 기반 문제 자동 생성 시스템 블록 다이어그램 - visual selection (1)" src="https://github.com/user-attachments/assets/5799000e-f8e8-492c-bbf2-b197224ed49e" />
 
 ---
 
