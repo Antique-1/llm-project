@@ -53,8 +53,6 @@
 ---
 
 ## 모델 개발 및 구현 과정
-<img width="500" height="1000" alt="강의 자료 기반 문제 자동 생성 시스템 블록 다이어그램 - visual selection (1)" src="https://github.com/user-attachments/assets/5799000e-f8e8-492c-bbf2-b197224ed49e" />
-
 
 * 인터넷 강의 스크립트 또는 텍스트 자료로부터 자동으로 요약 문장을 도출하고, 이를 기반으로 객관식 문제(MCQ)를 생성하며, 각 문제에 대한 해설까지 자동으로 산출하는 AI 기반 교육 보조 시스템을 개발하는 것을 목표로 합니다
 * 사전 학습된 OpenAI GPT 모델을 그대로 활용하는 제로샷(Zero-shot) 방식으로 문제 생성 기능을 수행하며, 별도의 추가 학습은 사용하지 않을 에정
@@ -86,7 +84,7 @@
 
 ### 3. 최종 설계 결과물의 형태
 
-최종 결과물은 다음 구성 요소를 갖는 웹 기반 AI 문제 자동 생성 시스템 형태로 완성 예정
+<img width="500" height="1000" alt="강의 자료 기반 문제 자동 생성 시스템 블록 다이어그램 - visual selection (1)" src="https://github.com/user-attachments/assets/5799000e-f8e8-492c-bbf2-b197224ed49e" />
 
 #### 소프트웨어 구성 요소
 * 요약 모듈
